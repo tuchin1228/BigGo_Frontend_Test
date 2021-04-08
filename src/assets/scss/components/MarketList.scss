@@ -1,0 +1,31 @@
+.market_list {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+.market_list h4 {
+  font-weight: 400;
+  letter-spacing: 1.2px;
+  text-align: center;
+}
+
+.market_list .market_container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  section {
+    text-align: center;
+    width: 50%;
+    max-width: 200px;
+    margin: 2vh 0vw;
+  }
+  section h3 {
+    font-size: 1rem;
+    font-weight: 300;
+    margin: .5vh 0;
+  }
+  section img{
+    max-width: 100px;
+    transition: .5s;
+  }
+}
