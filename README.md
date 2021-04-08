@@ -1,11 +1,11 @@
 # Bingo_Frontend_Test
 
 ## 啟動步驟
+##### 安裝依賴套件
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+##### 執行
 ```
 npm run serve
 ```
