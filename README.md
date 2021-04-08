@@ -1,6 +1,6 @@
-# bingo_frontend_test
+# Bingo_Frontend_Test
 
-## Project setup
+## 啟動步驟
 ```
 npm install
 ```
@@ -9,16 +9,14 @@ npm install
 ```
 npm run serve
 ```
+### 畫面截圖
+![view](https://user-images.githubusercontent.com/51053467/114054854-ccae8980-98c2-11eb-83e4-5117e5669d21.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 使用工具
+  - Vue.js
+  - Vue CLI
+  - axios 串接RESTful API
+  - 使用 SCSS 開發與管理樣式
+  - ESLint (airbnb)
+  - vue-lazyload 達到Lazyload
+  - Fontawesome Icon
